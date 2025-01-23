@@ -79,6 +79,12 @@ div.slide-right {
     animation: shake-loop 1s infinite;
 }
 
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 @keyframes shake-loop {
     0% {
