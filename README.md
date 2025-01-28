@@ -4,7 +4,7 @@ Going into this assignment I wanted to do a topic that would serve a better purp
 
 Creating this website for my IMD1005 Web Development assignment was pretty fun. I am still understanding HTML and CSS but so far I am enjoying it. I made use of the animations and hover actions that occur when you hover over the titles and quotes. I even learned and added a parallax to the pages to give that cool stationary road effect while you scroll down. I also made the navbar unique by having it appear at the bottom on the main page untill you scroll past the header and it will stick to the top.
 
-Going into the Requirements I have used !DOCTYPE, html, head, body, header, footers, main, nav, a, h1, 3 p's, and 3 pages. For index.html, my other tags are h2, ol, ul, and pre. For about.html, my other tags are h2, h3, ul, i, and pre. For contact.html, my other tags are h2, i, b, and pre. I also included the images with proper naming.
+Going into the Requirements I have used !DOCTYPE, html, head, body, header, footers, main, nav, a, h1, 3 p's, and 3 pages. For index.html, my other tags are h2, ol, ul, blockquote and pre. For about.html, my other tags are h2, h3, ul, i, and pre. For contact.html, my other tags are h2, i, b, and pre. I also included the images with proper naming. Also two fonts are obtained from Google Fonts.
 
 
 
